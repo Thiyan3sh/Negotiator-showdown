@@ -1,0 +1,15 @@
+{
+  "num_rows": 100,
+  "products": [
+    "Alphonso Mango",
+    "Kesar Mango",
+    "Coffee Beans",
+    "Exotic Flowers"
+  ],
+  "personalities": [
+    "AggressiveTrader",
+    "SmoothDiplomat",
+    "DataAnalyst",
+    "Wildcard"
+  ]
+}

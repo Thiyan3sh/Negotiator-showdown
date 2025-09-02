@@ -1,0 +1,101 @@
+item_name,grade,origin,quantity,seller_min_price,buyer_max_price,season
+Kesar Mango,B,Maharashtra,83,4440,5177,Summer
+Exotic Flowers,Standard,Kerala,81,3139,4658,Winter
+Exotic Flowers,Standard,Tamil Nadu,88,3200,4337,Summer
+Alphonso Mango,B,Ratnagiri,52,1486,2173,Monsoon
+Alphonso Mango,Export,Ratnagiri,42,1152,2507,Winter
+Exotic Flowers,Standard,Kerala,37,4885,5589,Winter
+Alphonso Mango,A,Ratnagiri,85,2525,4143,Summer
+Alphonso Mango,Export,Ratnagiri,82,3535,4687,Monsoon
+Coffee Beans,Standard,Coorg,91,4414,5522,Monsoon
+Alphonso Mango,A,Salem,20,2966,4893,Winter
+Kesar Mango,A,Maharashtra,83,1506,2400,Monsoon
+Exotic Flowers,Standard,Tamil Nadu,62,3775,5474,Winter
+Kesar Mango,A,Gujarat,15,3907,4409,Winter
+Kesar Mango,B,Gujarat,10,1559,2137,Monsoon
+Coffee Beans,Premium,Coorg,34,3532,4900,Monsoon
+Kesar Mango,B,Gujarat,75,4276,4935,Summer
+Coffee Beans,Premium,Chikmagalur,11,4552,5745,Winter
+Alphonso Mango,B,Ratnagiri,49,3869,5267,Monsoon
+Exotic Flowers,Premium,Kerala,74,3725,5092,Monsoon
+Exotic Flowers,Premium,Kerala,20,1238,2096,Winter
+Coffee Beans,Standard,Chikmagalur,35,4216,5273,Winter
+Exotic Flowers,Premium,Kerala,16,4802,5878,Monsoon
+Kesar Mango,B,Maharashtra,71,2107,3720,Monsoon
+Alphonso Mango,Export,Salem,46,2831,3408,Monsoon
+Exotic Flowers,Standard,Tamil Nadu,46,2706,3348,Summer
+Exotic Flowers,Premium,Tamil Nadu,92,2676,4337,Winter
+Coffee Beans,Premium,Coorg,17,4888,5909,Monsoon
+Coffee Beans,Premium,Chikmagalur,33,3045,4703,Summer
+Kesar Mango,B,Maharashtra,67,4278,6245,Summer
+Exotic Flowers,Premium,Kerala,95,4688,5765,Summer
+Exotic Flowers,Premium,Tamil Nadu,24,1943,3437,Winter
+Exotic Flowers,Premium,Tamil Nadu,54,3856,4501,Monsoon
+Coffee Beans,Premium,Coorg,10,1111,3093,Summer
+Exotic Flowers,Premium,Kerala,54,1027,1694,Monsoon
+Kesar Mango,B,Maharashtra,39,3128,4327,Winter
+Coffee Beans,Premium,Coorg,96,2762,3470,Winter
+Kesar Mango,A,Gujarat,48,2161,3076,Winter
+Kesar Mango,B,Gujarat,74,2718,3930,Summer
+Coffee Beans,Premium,Chikmagalur,64,2616,4239,Winter
+Exotic Flowers,Premium,Kerala,54,4040,5515,Summer
+Alphonso Mango,A,Salem,22,4546,5257,Summer
+Kesar Mango,A,Maharashtra,47,1492,2815,Monsoon
+Coffee Beans,Premium,Coorg,27,4108,4869,Summer
+Kesar Mango,B,Maharashtra,23,2546,4029,Winter
+Alphonso Mango,A,Ratnagiri,72,4907,5773,Winter
+Alphonso Mango,Export,Ratnagiri,38,4003,5779,Winter
+Exotic Flowers,Standard,Kerala,55,4156,5001,Monsoon
+Exotic Flowers,Standard,Tamil Nadu,19,4044,5212,Monsoon
+Exotic Flowers,Premium,Tamil Nadu,82,4858,6712,Winter
+Exotic Flowers,Standard,Kerala,93,4586,6241,Winter
+Exotic Flowers,Premium,Kerala,32,2676,3662,Winter
+Exotic Flowers,Standard,Kerala,11,4508,5860,Winter
+Kesar Mango,A,Gujarat,67,3639,4911,Winter
+Alphonso Mango,B,Salem,74,4945,5811,Summer
+Exotic Flowers,Premium,Tamil Nadu,16,4120,5933,Winter
+Coffee Beans,Premium,Chikmagalur,55,3216,4412,Monsoon
+Coffee Beans,Premium,Chikmagalur,79,4488,6251,Winter
+Coffee Beans,Standard,Chikmagalur,35,2866,4479,Winter
+Coffee Beans,Standard,Coorg,99,1684,2331,Winter
+Kesar Mango,B,Maharashtra,44,3330,4897,Monsoon
+Alphonso Mango,A,Salem,31,2696,4151,Monsoon
+Exotic Flowers,Standard,Kerala,42,2702,4520,Summer
+Kesar Mango,A,Gujarat,14,4561,5791,Winter
+Kesar Mango,A,Maharashtra,70,3345,4952,Summer
+Kesar Mango,B,Maharashtra,21,1735,2489,Monsoon
+Exotic Flowers,Standard,Tamil Nadu,92,4377,6372,Summer
+Kesar Mango,A,Gujarat,90,4723,5837,Monsoon
+Exotic Flowers,Premium,Tamil Nadu,98,4987,6611,Summer
+Coffee Beans,Standard,Chikmagalur,27,3095,5027,Monsoon
+Exotic Flowers,Standard,Tamil Nadu,13,1965,3601,Winter
+Kesar Mango,B,Gujarat,31,2424,3545,Monsoon
+Alphonso Mango,A,Salem,19,1227,2943,Monsoon
+Kesar Mango,A,Gujarat,84,3927,5122,Monsoon
+Alphonso Mango,B,Ratnagiri,26,1149,2226,Winter
+Coffee Beans,Premium,Coorg,61,4924,6580,Monsoon
+Exotic Flowers,Premium,Tamil Nadu,76,2047,3223,Monsoon
+Exotic Flowers,Premium,Kerala,43,3899,4559,Monsoon
+Exotic Flowers,Premium,Kerala,21,2290,4167,Summer
+Coffee Beans,Standard,Chikmagalur,87,4667,5381,Monsoon
+Kesar Mango,B,Maharashtra,26,3658,5291,Summer
+Coffee Beans,Standard,Chikmagalur,48,4327,5910,Monsoon
+Alphonso Mango,B,Salem,40,3929,5022,Winter
+Exotic Flowers,Standard,Tamil Nadu,99,4157,5810,Winter
+Exotic Flowers,Premium,Tamil Nadu,47,1169,1968,Monsoon
+Coffee Beans,Standard,Coorg,95,2234,3958,Monsoon
+Kesar Mango,A,Maharashtra,21,1753,3070,Winter
+Exotic Flowers,Premium,Tamil Nadu,90,3853,4521,Monsoon
+Kesar Mango,A,Gujarat,37,3787,4495,Summer
+Exotic Flowers,Premium,Kerala,97,1930,3453,Winter
+Exotic Flowers,Premium,Kerala,63,1446,3424,Monsoon
+Coffee Beans,Standard,Chikmagalur,65,2210,4002,Summer
+Kesar Mango,A,Maharashtra,88,4535,5365,Summer
+Kesar Mango,B,Gujarat,21,3377,3976,Monsoon
+Kesar Mango,B,Maharashtra,96,1961,3597,Monsoon
+Alphonso Mango,Export,Ratnagiri,96,3664,5210,Summer
+Coffee Beans,Standard,Chikmagalur,87,1091,2465,Monsoon
+Alphonso Mango,A,Salem,24,3897,5045,Winter
+Exotic Flowers,Premium,Kerala,31,1591,3084,Summer
+Coffee Beans,Premium,Coorg,76,4472,6295,Winter
+Kesar Mango,B,Maharashtra,74,1843,3679,Monsoon
